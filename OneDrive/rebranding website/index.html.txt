@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DUNG'S MEMOIR - Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <h1>DUNG'S MEMOIR</h1>
+            </div>
+            <nav>
+                <ul class="nav-menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="memoir.html">Memoir</a></li>
+                    <li><a href="travel.html">Travel</a></li>
+                    <li><a href="books.html">Books</a></li>
+                    <li><a href="education.html">Education</a></li>
+                    <li><a href="awakening.html">Awakening</a></li>
+                    <li><a href="management.html">Management</a></li>
+                    <li><a href="notes.html">Notes</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h2>Welcome to Dung's World of Knowledge</h2>
+            <p>Explore courses, memoirs, books, and deep insights to inspire your journey.</p>
+            <a href="memoir.html" class="btn">Start Exploring</a>
+        </div>
+    </section>
+
+    <section class="features">
+        <div class="container">
+            <div class="feature">
+                <img src="images/education.jpg" alt="Education">
+                <h3>Educational Resources</h3>
+                <p>Dive into courses on finance, business, coaching, and more.</p>
+            </div>
+            <div class="feature">
+                <img src="images/books.jpg" alt="Books">
+                <h3>Book Collections</h3>
+                <p>Curated book lists, reviews, and personal reading journeys.</p>
+            </div>
+            <div class="feature">
+                <img src="images/travel.jpg" alt="Travel">
+                <h3>Travel & Memoir</h3>
+                <p>Discover stories and milestones across different countries.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="testimonial">
+        <div class="container">
+            <h3>What Others Say</h3>
+            <div class="testimonial-content">
+                <div class="testimonial-card">
+                    <p>"A truly inspiring journey, filled with valuable insights!"</p>
+                    <footer>- Jane Doe, Entrepreneur</footer>
+                </div>
+                <div class="testimonial-card">
+                    <p>"The resources provided here are top-notch. Highly recommend!"</p>
+                    <footer>- John Smith, Investor</footer>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Dung's Memoir. All rights reserved. | <a href="contact.html">Contact Us</a></p>
+        </div>
+    </footer>
+</body>
+</html>
